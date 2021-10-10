@@ -6,7 +6,6 @@ public class Ejercicio4 {
     public static void main(String[] args) {
         
         int num;
-
         Scanner consola = new Scanner(System.in);
 
         System.out.print("Ingresa el numero y te dire su Factorial: ");
